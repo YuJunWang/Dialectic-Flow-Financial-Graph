@@ -1,0 +1,11 @@
+langchain
+langchain-groq
+langchain-community
+langgraph
+pydantic
+yfinance
+duckduckgo-search
+python-dotenv
+matplotlib
+pandas
+markdown
